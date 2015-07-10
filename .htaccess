@@ -1,7 +1,0 @@
-<Files ~ "^\.(htaccess|htpasswd)$">
-  Deny from all
-  Satisfy all
-</Files>
-
-Allow from all
-Satisfy any
